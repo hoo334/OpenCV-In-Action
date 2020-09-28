@@ -1,0 +1,2 @@
+D:\VSProjects\OpenCV-In-Action\binocular-stereo-vision\x64\Debug\binocular-stereo-vision.exe
+D:\VSProjects\OpenCV-In-Action\binocular-stereo-vision\x64\Debug\binocular-stereo-vision.pdb

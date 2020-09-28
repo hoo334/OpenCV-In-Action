@@ -1,0 +1,46 @@
+﻿  main.cpp
+D:\VSProjects\OpenCV-In-Action\vignetting-correction\main.cpp(117,17): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+D:\VSProjects\OpenCV-In-Action\vignetting-correction\main.cpp(127,85): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\VSProjects\OpenCV-In-Action\vignetting-correction\main.cpp(127,75): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\VSProjects\OpenCV-In-Action\vignetting-correction\main.cpp(127,104): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\VSProjects\OpenCV-In-Action\vignetting-correction\main.cpp(127,99): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\VSProjects\OpenCV-In-Action\vignetting-correction\main.cpp(128,12): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\VSProjects\OpenCV-In-Action\vignetting-correction\main.cpp(196,52): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\VSProjects\OpenCV-In-Action\vignetting-correction\main.cpp(196,42): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\VSProjects\OpenCV-In-Action\vignetting-correction\main.cpp(196,69): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\VSProjects\OpenCV-In-Action\vignetting-correction\main.cpp(196,66): warning C4244: “参数”: 从“int”转换到“_Tp”，可能丢失数据
+          with
+          [
+              _Tp=float
+          ]
+D:\VSProjects\OpenCV-In-Action\vignetting-correction\main.cpp(221,16): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+D:\VSProjects\OpenCV-In-Action\vignetting-correction\main.cpp(222,15): warning C4244: “初始化”: 从“float”转换到“int”，可能丢失数据
+  vignetting-correction.vcxproj -> D:\VSProjects\OpenCV-In-Action\vignetting-correction\x64\Debug\vignetting-correction.exe

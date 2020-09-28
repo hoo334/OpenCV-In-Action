@@ -1,0 +1,11 @@
+%YAML:1.0
+---
+IMGCOUNT: 13
+squareSizeW: 25
+squareSizeH: 25
+boardSizeW: 6
+boardSizeH: 9
+leftImagePath: ".\\samples\\left\\left"
+leftImageName: "13.jpg"
+rightImagePath: ".\\samples\\right\\right"
+rightImageName: "13.jpg"

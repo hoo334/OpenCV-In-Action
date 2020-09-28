@@ -1,0 +1,2 @@
+D:\VSProjects\OpenCV-In-Action\vignetting-correction\x64\Debug\vignetting-correction.exe
+D:\VSProjects\OpenCV-In-Action\vignetting-correction\x64\Debug\vignetting-correction.pdb
